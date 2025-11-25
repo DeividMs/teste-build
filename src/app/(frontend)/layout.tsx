@@ -1,5 +1,5 @@
 import React from 'react'
-import './styles.css'
+import '../globals.css'
 import { Metadata, Viewport } from 'next'
 
 export const metadata: Metadata = {
